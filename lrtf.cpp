@@ -66,7 +66,7 @@ int main(){
         scanf("%d",&st[i].student_id);
 
 		//cin>>s[i].id;
-        printf("enter food taken time %d \n",i+1);
+        printf("enter food taken time of students%d \n",i+1);
         scanf("%d",&st[i].F_time);
 		st[i].Brust_time = st[i].F_time;
 
